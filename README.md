@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @BeratO01
-- 👀 I’m interested in creating a portfolio to get a job
+- 👀 I’m interested in creating a portfolio 
 - 🌱 I’m currently learning Java, Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
+
 
 <!---
 BeratO01/BeratO01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
